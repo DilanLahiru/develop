@@ -1,0 +1,16 @@
+export const COLORS = {
+  primary: '#5DBEBD',
+  background: '#f8f9fa',
+  whiteColor: '#ffffff',
+  lightGray: '#f0f0f0',
+  lightRed: '#ffe8e8',
+  text: '#1a1a1a',
+  textPrimary: '#0f172a',
+  textSecondary: '#999',
+  border: '#e0e0e0',
+  shadow: 'rgba(0, 0, 0, 0.3)',
+  overlay: 'rgba(0, 0, 0, 0.3)',
+  checkboxInactive: '#e8e8e8',
+  checkboxActive: '#5DBEBD',
+  danger: '#ef4444',
+}
